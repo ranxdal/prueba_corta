@@ -24,4 +24,6 @@ main(){
 	Propietario obj = Propietario(nombres,apellidos,direccion,telefono,fena,nit,cui);
 	obj.mostrar();
 	
+
+	
 }
